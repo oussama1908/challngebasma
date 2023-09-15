@@ -1,0 +1,15 @@
+.FiltreStyle{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+.FiltreSearch{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:200px;
+    margin-bottom: 50px;
+}

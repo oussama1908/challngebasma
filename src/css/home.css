@@ -1,0 +1,26 @@
+.brawnie {
+    background-image: url("https://img.freepik.com/photos-premium/gros-plan-brownies-delicieux-gateau-au-chocolat-fond-sombre_168892-2433.jpg");
+    background-repeat: no-repeat;
+   
+    background-size: cover; 
+}
+span{
+    color: rgb(245, 225, 9);
+
+}
+.brownis{
+    width: 665px;
+    text-align: center;
+   color: beige;
+}
+ .shop {
+    background-color: transparent;
+    border: 3px solid yellow;
+    border-radius: 40%;
+    padding: 5px 40px;
+    box-shadow: 0 0 10px yellow; /* Ajoutez une ombre jaune */
+  font-weight: bold;
+  font-size: 30px;
+  color: beige;
+} 
+

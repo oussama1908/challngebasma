@@ -1,0 +1,26 @@
+
+.brownis-section{
+    background-color: #060D17
+    
+}
+/* MovieList.css */
+.brownis-list {
+    
+    padding-top: 50px;
+    display: flex;
+flex-direction: column;   
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .Add-button{
+margin: auto;}
+
+.cardlist{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap:25px;
+
+}
